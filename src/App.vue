@@ -16,9 +16,11 @@ import Button from './components/Button.vue'
   <main>
     <TheWelcome />
   </main>
-  <div><h2>
+  <div>
+    <h2>
           Mon SUPER BOUTON
-  </h2></div>
+    </h2>
+  </div>
 </template>
 
 <style scoped>
