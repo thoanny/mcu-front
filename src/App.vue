@@ -1,6 +1,7 @@
 <script setup>
 import HelloWorld from './components/HelloWorld.vue'
 import TheWelcome from './components/TheWelcome.vue'
+import Button from './components/Button.vue'
 </script>
 
 <template>
@@ -15,6 +16,9 @@ import TheWelcome from './components/TheWelcome.vue'
   <main>
     <TheWelcome />
   </main>
+  <div><h2>
+          Mon SUPER BOUTON
+  </h2></div>
 </template>
 
 <style scoped>
